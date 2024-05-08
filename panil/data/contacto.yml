@@ -1,0 +1,15 @@
+####################### Spotlight #########################
+style: "style4 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "¡Hazte parte!"
+content: |
+  La etnobotánica estudia la relación de los seres humanos con las plantas y su entorno. Esto incluye desde los múltiples usos que les damos a las especies (medicinales, rituales, materiales, etc) su importancia histórica y comercial, hasta la clasificación, nomenclatura e interpretación ecológica otorgada por los diversos grupos culturales a nivel global.Sabemos que hay  mucha información que se puededsadas investigar y comunicar a través de las plantas. En este proyecto quisimos abordar nuestra colección desde la etnobotánica, tanto en diseño del jardín como en el contenido asociado, debido al alto endemismo de   nuestro territorio y, por lo mismo, la necesidad de acceso a información documentada de las especies propias de nuestro bosque nativo.<br/>
+   <ul class="actions">
+                                            
+  <li><a href="#" class="button icon solid fa-user-plus">Siguenos en Instagram</a></li>
+  <li><a href="#" class="button icon solid fa-envelope">Envíanos un correo</a></li>
+                                            
+  </ul>
+
+
+image: "images/spotlight01.jpg"

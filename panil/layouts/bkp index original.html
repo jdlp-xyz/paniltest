@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.p_banner }}
+	{{ partial "spotlight" site.Data.spotlight1 }}
+
+	{{ partial "gallery" site.Data.gallery }}
+	{{ partial "items" site.Data.items }}
+	{{ partial "elements" . }}
+	{{ partial "elements_reference" . }}
+	{{ partial "footer" . }}
+
+{{ end }}

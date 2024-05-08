@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-	{{ partial "banner" site.Data.banner }}
-	{{ partial "spotlight" site.Data.spotlight1 }}
-	{{ partial "spotlight" site.Data.spotlight2 }}
-	{{ partial "spotlight" site.Data.spotlight3 }}
+	{{ partial "banner" site.Data.p_banner }}
+	{{ partial "spotlight" site.Data.quienes_somos }}
+	{{ partial "spotlight" site.Data.porque_jardin }}
+	{{ partial "items" site.Data.objetivos }}
 	{{ partial "gallery" site.Data.gallery }}
-	{{ partial "items" site.Data.items }}
-	{{ partial "elements" . }}
-	{{ partial "elements_reference" . }}
+	{{ partial "donde_estamos" . }}
+	{{ partial "spotlight" site.Data.contacto }}
 	{{ partial "footer" . }}
+
 
 {{ end }}

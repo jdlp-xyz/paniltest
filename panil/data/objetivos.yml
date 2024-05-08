@@ -1,0 +1,15 @@
+title: Objetivos
+content: |
+  Una pequeña bajada general de los objetivos, algo que decir.
+style: style1 medium onscroll-fade-in
+items:
+  - name: Conservar
+    content: Ser un organismo activo en la conservación y la biodiversidad biológica de Chile.
+    style: style1 major fa-leaf
+  - name: Crear conocimiento
+    content: Contribuir al conocimiento e investigación científica, especialmente de la etnobiología.
+    style: style1 major fa-microscope
+  - name: Vincular
+    content: Fortalecer el turismo ecológico local y regional.
+    style: style1 major fa-people-group
+ 

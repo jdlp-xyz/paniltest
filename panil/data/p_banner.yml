@@ -1,0 +1,9 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Jardín Etnobotánico Pañil"
+subtitle: |
+  Conservación, ciencia y educación al sur del mundo.
+content : |
+  Jardín Etnobotánico Pañil es un proyecto de educación y conservación ubicado en la región de Araucanía, al sur de Chile. Un jardín botánico se diferencia de otras áreas verdes por ser un espacio que contiene una colección documentada de plantas vivas, con fines de conservación, exhibición, investigación científica y educación. Además, al ser una colección monitoreada, los jardines botánicos son una importante red de conservación ex-situ de especies en estado ecológico vulnerable o en peligro.  Nos constituímos como fundación el año 2023. Actualmente nos encontramos en etapa de adquisición y plantación de especies, y en el diseño de espacios y senderos. Esperamos desarrollar contenido y actividades con la comunidad en el futuro próximo.
+image : "images/salto.jpg"
+

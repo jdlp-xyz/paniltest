@@ -1,0 +1,8 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-right image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Quiénes somos"
+content: |
+  Somos una fundación conformada por personas ligadas a las ciencias ambientales y la comunicación científica. Sabemos de las diferencias de acceso a educación e investigación que existen en nuestro país entre las grandes ciudades y el sector rural. Por lo mismo, y aprovechando las características ecológicas y geológicas únicas del paisaje de la región, buscamos ser un espacio que potencie la educación y la conservación a nivel local.
+
+image: "images/panil_closeup01.jpg"

@@ -1,6 +1,8 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
     <div class="content">
+        <!-- Aquí va el logo -->
+        
         {{ with .title }}<h1>{{ . }}</h1>{{ end }}
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
